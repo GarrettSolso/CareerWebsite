@@ -1,0 +1,19 @@
+.container {
+    background-color: orange;
+}
+.RowTop {
+    background-color: white;
+    border-bottom: solid #FF0000;
+    padding: 5px
+}
+h2 {
+    background-color: white;
+    border-bottom: solid #FF0000;
+    padding: 5px;
+}
+p {
+    font-size: 20px;
+}
+.img {
+    border: rigid red;
+}
